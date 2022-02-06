@@ -1,0 +1,16 @@
+{
+  "name": "dynamo",
+  "version": "1.0.0",
+  "description": "Dynamic ORM for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blackkat98",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^6.2.0",
+    "sequelize": "^6.15.1"
+  }
+}
